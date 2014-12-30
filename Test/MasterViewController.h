@@ -13,6 +13,7 @@
 @interface MasterViewController : UITableViewController
 
 @property (strong, nonatomic) DetailViewController *detailViewController;
+// 막올려보자
 
 
 @end
